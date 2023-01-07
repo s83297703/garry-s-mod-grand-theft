@@ -47,7 +47,7 @@
     },
     "skins": [
     {
-      "imageUrl": https://iili.io/HuFonIe.jpg",
+      "imageUrl":" https://iili.io/HuFonIe.jpg",
       "title": "mod pack 1",
       "likeNumbers": "2242 LIKES",
       "commentNumbers": " 3833 COMMENTS",
